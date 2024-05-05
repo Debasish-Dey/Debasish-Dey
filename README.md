@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/debasish-dey-58647226b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkumar" height="30" width="40" /></a>&nbsp;
 <a href="https://www.instagram.com/debasish_.dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince__rey" height="30" width="40" /></a>&nbsp;
 <a href="https://www.codechef.com/users/ddcodes" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/codechef.png" alt="prince_rey"/></a>&nbsp;
-<a href="https://leetcode.com/u/Debasish-Dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="rohkumar0126" height="30" width="40" /></a>&nbsp;
+<!-- <a href="https://leetcode.com/u/Debasish-Dey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="rohkumar0126" height="30" width="40" /></a>&nbsp; -->
 <a href="https://twitter.com/deydebasish1512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_prince_rey_" height="30" width="40" /></a>&nbsp;
 </p>
 <br>
